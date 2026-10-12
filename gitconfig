@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amandine.dumont.pro@gmail.com
+	name = Amandine Dumont
